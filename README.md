@@ -95,8 +95,8 @@ https://github.com/Naveen-Indla/Ecommerce-Sales-Analysis
 
 # 🌐 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: Add Your LinkedIn Profile Link  
+📧 Email: naveenindla32@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/naveen-indla/
 🌍 GitHub: https://github.com/Naveen-Indla
 
 ---
