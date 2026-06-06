@@ -79,17 +79,6 @@ https://github.com/Naveen-Indla/Ecommerce-Sales-Analysis
 🏅 Deloitte Data Analytics Job Simulation  
 🏅 HackerRank SQL Gold Badge  
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Indla&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Indla&theme=tokyonight" />
-</p>
 
 ---
 
